@@ -12,5 +12,5 @@
       ]
     }
   },
-  "postCreateCommand": "pip install uv && uv pip install --system fastapi"
+  "postCreateCommand": "uv pip install fastapi"
 }
